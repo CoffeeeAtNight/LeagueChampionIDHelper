@@ -19,8 +19,6 @@
 
 > Takes a champion ID as input, automatically searches for the corresponding champion data in a public League of Legends API and returns it.
 
-### 🏠 [Homepage](https://github.com/CoffeeeAtNight/LeagueChampionIDHelper)
-
 ## Prerequisites
 
 - npm >=5.5.0
