@@ -11,7 +11,7 @@
 ## Usage
 
 ```sh
-import { leagueHelper } import { leagueHelper } from './leagueChampionIdHelper.js';
+import { leagueHelper } from './leagueChampionIdHelper.js';
 
 //Get Data for a Champion
 var example = leagueHelper.getChampionData("ex. 144")
