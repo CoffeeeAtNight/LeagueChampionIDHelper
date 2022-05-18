@@ -32,4 +32,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [CoffeeAtNight](https://github.com/CoffeeeAtNight).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
