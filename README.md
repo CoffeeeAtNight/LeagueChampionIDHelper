@@ -1,6 +1,6 @@
 <h1 align="center">This is a LeagueChampionIDHelper</h1>
 
-> Takes a champion ID as input, automatically searches for the corresponding champion data in a public League of Legends API and returns it as JSON.
+> Takes a champion ID as input, automatically searches for the corresponding champion data in a public League of Legends API and returns it as JSON. The returned data will always be up-to-date to the current patch. In case you find any issues or bugs, please let me know.
 
 ## Prerequisites
 
