@@ -13,7 +13,7 @@
 ```sh
 import { leagueHelper } from './leagueChampionIdHelper.js';
 
-//Get Data for a Champion
+//Get data of a specific champion
 var example = leagueHelper.getChampionData("ex. 144")
 ```
 
