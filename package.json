@@ -1,0 +1,27 @@
+{
+  "name": "leaguechampionidhelper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Takes a champion ID as input, automatically searches for the corresponding champion data in a public League of Legends API and returns it.",
+  "main": "leagueChampionIdHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeeAtNight/LeagueChampionIDHelper.git"
+  },
+  "keywords": [
+    "LeagueOfLegends",
+    "ChampionID"
+  ],
+  "author": "CoffeeeAtNight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoffeeeAtNight/LeagueChampionIDHelper/issues"
+  },
+  "homepage": "https://github.com/CoffeeeAtNight/LeagueChampionIDHelper#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
