@@ -21,13 +21,17 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- npm
+- node
+- axios
 
 ## Usage
 
 ```sh
-resolveChampId(&#34;ex. 144&#34;)
+import { leagueHelper } import { leagueHelper } from './leagueChampionIdHelper.js';
+
+//Get Data for a Champion
+var example = leagueHelper.getChampionData("ex. 144")
 ```
 
 ## Author
