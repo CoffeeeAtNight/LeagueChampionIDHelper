@@ -27,7 +27,6 @@ export class leagueHelper {
         for (const [id, value] of Object.entries(championList)) {
           if (value.key == championID) {
             const outputResolvedData = value;
-            console.log(outputResolvedData);
             return outputResolvedData;
           }
         }
